@@ -1,0 +1,8 @@
+In computing, a Hyperlink, or simply a link, is a reference to data that the
+reader can directly follow either by clicking, tapping, or hovering.
+
+A Hyperlink points to a whole document or to a specific element within a document.
+
+Hypertext is text with hyperlinks.
+
+The term was coined by Ted Nelson at the start of Project Xanadu.

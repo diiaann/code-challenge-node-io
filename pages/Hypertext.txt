@@ -1,0 +1,9 @@
+Hypertext is text displayed on a computer display or other electronic devices
+with references (Hyperlink) to other text that the reader can immediately access.
+
+Hypertext documents are interconnected by hyperlinks, which are typically activated by a mouse click,
+keypress set or by touching the screen.
+
+The term Hypertext was coined by Ted Nelson at the start of Project Xanadu.
+
+A Wiki uses Hyperlink and Hypertext to connect data.

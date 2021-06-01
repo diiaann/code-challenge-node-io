@@ -1,0 +1,3 @@
+Howard G. "Ward" Cunningham (born May 26, 1949) is an American computer programmer who developed the first Wiki.
+
+He has authored a book about wikis, titled The Wiki Way, and also invented Framework for Integrated Tests.

@@ -1,0 +1,5 @@
+A Wiki is a website on which users collaboratively modify Hypertext
+and structure directly from the web browser.
+
+Ward Cunningham, the developer of the first wiki software,
+originally described it as "the simplest online database that could possibly work".
